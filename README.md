@@ -6,5 +6,5 @@ print mary.split() # This will split the sentence into a list.
 Output will be : ['Mary', 'had', 'a', 'little', 'lamb']
 
 hello = "hello world, how are you?"
-print mary.count('w') # This will count how many times 'w' is in the sentence.
+print hello.count('w') # This will count how many times 'w' is in the sentence.
 Output will be: 2
